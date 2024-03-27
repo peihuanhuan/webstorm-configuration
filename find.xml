@@ -5,6 +5,7 @@
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.liquid" />
     <mask>*.xml</mask>
     <mask>*.css</mask>
     <mask>*.shtml</mask>
@@ -21,5 +22,6 @@
     <mask>*.js</mask>
     <mask>*.jsx</mask>
     <mask>*.js*</mask>
+    <mask>*.liquid</mask>
   </component>
 </application>
